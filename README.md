@@ -1,6 +1,6 @@
 # 🚦 DFA Construction 
 
-This project demonstrates the construction and simulation of a **Deterministic Finite Automaton (DFA)** to recognize strings that match a specific regular expression. The implementation is done in **C++**.
+This project demonstrates the construction and simulation of a **Deterministic Finite Automaton (DFA)** to recognise strings that match a specific regular expression. The implementation is done in **C++**.
 
 ---
 
@@ -69,10 +69,10 @@ Output: Rejected
 
 ## 🌍 Real-World Applications
 
-Lexical Analysis: Tokenizing source code in compilers.
-Network Security: Pattern matching in intrusion detection systems.
-Text Editors: Implementing search and syntax highlighting.
-Natural Language Processing: Recognizing grammars in structured text.
-Embedded Systems: Modeling finite state behavior in devices.
+- Lexical Analysis: Tokenising source code in compilers.
+- Network Security: Pattern matching in intrusion detection systems.
+- Text Editors: Implementing search and syntax highlighting.
+- Natural Language Processing: Recognising grammars in structured text.
+- Embedded Systems: Modelling finite state behaviour in devices.
 
 ---
